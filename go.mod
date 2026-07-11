@@ -1,3 +1,3 @@
-module my_go_project
+module parse-me-the-braces
 
 go 1.26.4
